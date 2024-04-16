@@ -1,5 +1,6 @@
 # AIML-LABS-2024
 S.Hari Charan 2203A51712
+[LAB-01]()
 
 [LAB-02](https://github.com/haricharan-suraram/AIML-LABS-2024/blob/main/LAB_02.ipynb)
 
@@ -14,3 +15,5 @@ S.Hari Charan 2203A51712
 [LAB-07](https://github.com/haricharan-suraram/AIML-LABS-2024/blob/main/LAB_07.ipynb)
 
 [LAB-08](https://github.com/haricharan-suraram/AIML-LABS-2024/blob/main/LAB_08.ipynb)
+
+[LAB-09]()
